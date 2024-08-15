@@ -48,7 +48,7 @@ const Landing = () => {
             Log In With Spotify <ArrowRight className="ml-2 h-4 w-4" />
           </Button>
           <Button size="lg" className="px-4" variant={"outline"}>
-            <a href="https://www.github.com/ishaan1013" target="_blank" rel="noreferrer" tabIndex={-1}>
+            <a href="https://www.github.com/vineetjassal" target="_blank" rel="noreferrer" tabIndex={-1}>
             <Github className="h-4 w-4" />
             </a>
           </Button>
